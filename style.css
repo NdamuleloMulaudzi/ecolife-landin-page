@@ -73,3 +73,28 @@ a:hover{
     border: 2px solid #34c759 ;
 }
 /*End of header content style*/
+
+.main{
+    background-color: #ddebf8;
+    color: #393e46;
+    border-radius: 20px;
+}
+.main h2{
+    text-align: center;
+    font-size: 35px;
+}
+.information{
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure{
+    padding: 20px;
+}
+.fig2{
+    margin-left: 90px;
+}
+figcaption{
+    font-weight: 900;
+}
